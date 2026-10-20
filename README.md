@@ -8,9 +8,9 @@ Tener instalado JDK 11 o posterior. No se necesitan bibliotecas externas.
 
 ## Compilación
 
-Abrir una terminal en la carpeta que contiene todos los archivos .java y ejecutar:
+Abrir una terminal en la carpeta donde están los archivos .java y ejecutar:
 
-javac -encoding UTF-8 *.java
+javac *.java
 
 ## Ejecución
 
